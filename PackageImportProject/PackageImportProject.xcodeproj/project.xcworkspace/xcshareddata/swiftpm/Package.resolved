@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "RambaHamba",
+        "repositoryURL": "https://ratshGit@bitbucket.org/obodev/rambahamba.git",
+        "state": {
+          "branch": null,
+          "revision": "8dfe7b5c0f9a427eac693d93689f509518a2ad36",
+          "version": "1.1.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
